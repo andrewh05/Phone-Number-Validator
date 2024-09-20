@@ -17,9 +17,9 @@ This Java program validates Lebanese phone numbers by checking the prefix to det
 
 
 ## Example Input and Output
-Input: '03765432' → Output: 'Mobile'
-Input: '01987654' → Output: 'Landline'
-Input: '98765432' → Output: 'Error: Unknown number type'.
+Input: `03765432` → Output: `Mobile`
+Input: `01987654` → Output: `Landline`
+Input: `98765432` → Output: `Error: Unknown number type`.
 
 ## Notes
 The program currently only supports Lebanese phone numbers with specific prefixes.
