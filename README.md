@@ -10,10 +10,10 @@ This Java program validates Lebanese phone numbers by checking the prefix to det
 
 ## Usage
 
-1. Clone the repository or download the `homework8.java` file.
+1. Clone the repository or download the `PhoneNumberValidator.java` file.
 2. Compile the Java file using the following command:
    ```bash
-   javac homework8.java
+   javac PhoneNumberValidator.java
 
 
 ## Example Input and Output
