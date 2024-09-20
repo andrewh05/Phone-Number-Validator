@@ -14,3 +14,13 @@ This Java program validates Lebanese phone numbers by checking the prefix to det
 2. Compile the Java file using the following command:
    ```bash
    javac homework8.java
+
+
+## Example Input and Output
+Input: '03765432' → Output: 'Mobile'
+Input: '01987654' → Output: 'Landline'
+Input: '98765432' → Output: 'Error: Unknown number type'.
+
+## Notes
+The program currently only supports Lebanese phone numbers with specific prefixes.
+This project is intended as a basic example to demonstrate string manipulation, array usage, and control flow in Java.
