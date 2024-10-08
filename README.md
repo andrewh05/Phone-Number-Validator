@@ -15,7 +15,7 @@ This Java program validates Lebanese phone numbers by checking the prefix to det
    ```bash
    javac PhoneNumberValidator.java
 
-
+ 
 ## Example Input and Output
 Input: `03765432` → Output: `Mobile`
 Input: `01987654` → Output: `Landline`
